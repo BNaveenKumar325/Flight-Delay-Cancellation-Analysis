@@ -42,13 +42,10 @@ Power BI Dashboard: `Flight_Delay_Cancellation_Analysis_Presentation.pbix`
 - **Alaska Airlines** has the best OTP, while **Frontier** shows high cancellations.
 - ORD and ATL are among the top delay-prone airports.
 
-
+## Recommendations
 
 1. Improve early morning operational efficiency to prevent cumulative delays.
 2. Enhance weather preparedness through predictive systems and resource planning.
 3. Optimize aircraft turnaround schedules to reduce Late Aircraft delays.
 
----
-
-## 📂 Repository Structure
 
